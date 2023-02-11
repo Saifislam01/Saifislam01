@@ -13,13 +13,10 @@ I am Saiful Islam, based in Dhaka, Bangladesh. Currently, I am working as a Word
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifislam01&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saifislam01&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Saifislam01&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
