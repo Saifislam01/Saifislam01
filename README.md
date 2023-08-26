@@ -1,12 +1,12 @@
 # 💫 About Me:
 I am Saiful Islam, based in Dhaka, Bangladesh. Currently, I am working as a WordPress Technical Support Engineer at weDevs. I’m very passionate and dedicated to my work. As a technical support engineer, I always want to spread happiness to customers through my work. Expertise in technical troubleshooting and finding solutions.<br><br>❂ Hands-on experience with WooCommerce, Dokan, Elementor, Happy Addon, and WP User Frontend.
 
+[![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"><img align="right" alt="Saiful is coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" style="max-width: 100%;">
   </a>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/saifulislam90) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saif.islam.714655) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiful_islam_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam-shimul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saifislam01) 
