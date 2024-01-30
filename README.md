@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=7000&pause=1000&color=39B2C9&multiline=true&random=false&width=1500&height=200&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Saiful+Islam+;working+as+a+technical+support+engineer)](https://git.io/typing-svg)
+
 I am Saiful Islam, based in Dhaka, Bangladesh. Currently, I am working as a WordPress Technical Support Engineer at weDevs. I’m very passionate and dedicated to my work. I always want to spread happiness to customers through my work. With 5+ years in the industry, I have honed profound expertise in diagnosing, troubleshooting, and resolving technical issues across a diverse range of products and systems.
 
 ❂ Hands-on experience with WooCommerce, Dokan, Happy Addons, WP User Frontend, weDocs, FlyWP & WooCommerce Conversion Tracking.
