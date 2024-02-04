@@ -1,8 +1,19 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=7000&pause=1000&color=39B2C9&multiline=true&random=false&width=1500&height=100&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Saiful+Islam)](https://git.io/typing-svg)
-Currently, I work as a WordPress Technical Support Engineer at weDevs. I am highly passionate and dedicated to my work, always aiming to bring happiness to customers through my efforts. With over 5 years in the industry, I have developed deep expertise in diagnosing, troubleshooting, and resolving technical issues across a wide range of products and systems.
 
-❂ Hands-on experience with WooCommerce, Dokan, Happy Addons, WP User Frontend, weDocs, FlyWP & WooCommerce Conversion Tracking.
+🔭 I’m currently working at weDevs as a WordPress Technical Support Engineer. 
+
+🛠️ Hands-on experience with WooCommerce, Dokan, Happy Addons, WP User Frontend, weDocs, FlyWP & WooCommerce Conversion Tracking.
+
+🌱 I’m currently learning WP theme & Plugin Development
+
+📝 I regularly write articles on https://wpninja01.wordpress.com/
+
+💬 Ask me about WordPress, WP Contributions, & Customer Support
+
+📫 How to reach me saifislam01@outlook.com
+
+⚡ Fun fact: I love discovering new tools, technology, and playing cricket. 
 
 [![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
 
