@@ -3,7 +3,7 @@
 
 🔭 I’m currently working at weDevs as a WordPress Technical Support Engineer. 
 
-🛠️ ![image](https://github.com/saifislam01/saifislam01/assets/42386363/c9c3dc90-1230-44c3-b252-47ff278fe9b9) I have experience with WooCommerce, Dokan, Happy Addons, WP User Frontend, weDocs, FlyWP, and WooCommerce Conversion Tracking.
+🛠️ I have experience with WooCommerce, Dokan, Happy Addons, WP User Frontend, weDocs, FlyWP, and WooCommerce Conversion Tracking.
 
 🌱 I’m currently learning WP theme & Plugin Development
 
