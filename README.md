@@ -15,7 +15,6 @@
 
 ⚡ Fun fact: I love discovering new tools, technology, and playing cricket.
 
-
 [![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p dir="auto">
