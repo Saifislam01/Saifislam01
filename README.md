@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=Saifislam01&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/75851313…51668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"><img align="right" alt="Saiful is coding" width="400" src="https://user-images.githubusercontent.com/75851313…51668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/75851313…51668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"><img align="right" alt="Saiful is coding" width="350" src="https://user-images.githubusercontent.com/75851313…51668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" style="max-width: 100%;">
   </a>
 </p>
 
